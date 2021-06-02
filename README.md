@@ -1,3 +1,3 @@
 # Mockup site for a Federation (imaginary)
 
-## Created with Laravel using Tailwind CSS for styling.
+## Created with [Laravel](https://laravel.com/) using [Tailwind CSS](https://tailwindcss.com/) for styling.
